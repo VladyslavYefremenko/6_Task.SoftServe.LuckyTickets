@@ -1,0 +1,12 @@
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\bin\Debug\SoftServe.LuckyTicketsView.exe.config
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\bin\Debug\SoftServe.LuckyTicketsView.exe
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\bin\Debug\SoftServe.LuckyTicketsView.pdb
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\bin\Debug\SoftServe.LuckyTickets.dll
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\bin\Debug\SoftServe.LuckyTickets.pdb
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\bin\Debug\SoftServe.LuckyTickets.dll.config
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\bin\Debug\SoftServe.LuckyTickets.exe.config
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\obj\Debug\SoftServe.LuckyTicketsView.csprojAssemblyReference.cache
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\obj\Debug\SoftServe.LuckyTicketsView.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\obj\Debug\SoftServe.LuckyTicketsView.csproj.CopyComplete
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\obj\Debug\SoftServe.LuckyTicketsView.exe
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTicketsView\obj\Debug\SoftServe.LuckyTicketsView.pdb

@@ -5,3 +5,9 @@ C:\Users\NoApple\Desktop\GitHub\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTic
 C:\Users\NoApple\Desktop\GitHub\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\obj\Debug\SoftServe.LuckyTickets.csproj.CoreCompileInputs.cache
 C:\Users\NoApple\Desktop\GitHub\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\obj\Debug\SoftServe.LuckyTickets.exe
 C:\Users\NoApple\Desktop\GitHub\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\obj\Debug\SoftServe.LuckyTickets.pdb
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\bin\Debug\SoftServe.LuckyTickets.dll.config
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\bin\Debug\SoftServe.LuckyTickets.dll
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\bin\Debug\SoftServe.LuckyTickets.pdb
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\obj\Debug\SoftServe.LuckyTickets.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\obj\Debug\SoftServe.LuckyTickets.dll
+C:\Users\NoApple\Desktop\SoftServe\6_Task.SoftServe.LuckyTickets\SoftServe.LuckyTickets\obj\Debug\SoftServe.LuckyTickets.pdb

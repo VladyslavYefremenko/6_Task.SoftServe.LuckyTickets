@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SoftServe.LuckyTickets
 {
-    class LuckyTicketCounter
+    public class LuckyTicketCounter
     {
         private int numLuckyTickets = 0;
         private List<Ticket> luckyTickets = new List<Ticket>();
@@ -27,13 +27,13 @@ namespace SoftServe.LuckyTickets
         {
             foreach (var ticket in tickets)
             {
-                if (algorithm == ConstsAlgorithms.MOSCOW_ALGORITHM)
+                if (algorithm == DefaultSettings.MOSCOW_ALGORITHM)
                 {
                     if (ticket.IsLuckyMoscow)
                     {
                         numLuckyTickets++;
                         luckyTickets.Add(ticket);
-                        nameOfAlgorithm = ConstsAlgorithms.MOSCOW_ALGORITHM;
+                        nameOfAlgorithm = DefaultSettings.MOSCOW_ALGORITHM;
                     }
                 }
                 else
@@ -42,7 +42,7 @@ namespace SoftServe.LuckyTickets
                     {
                         numLuckyTickets++;
                         luckyTickets.Add(ticket);
-                        nameOfAlgorithm = ConstsAlgorithms.PITER_ALGORITHM;
+                        nameOfAlgorithm = DefaultSettings.PITER_ALGORITHM;
                     }
                 }
             }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SoftServe.LuckyTickets
 {
-    class BusTicketCreator : ITicketCreator
+    public class BusTicketCreator : ITicketCreator
     {
         public List<Ticket> Create(int numOfTickets)
         {

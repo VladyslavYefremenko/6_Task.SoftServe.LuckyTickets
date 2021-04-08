@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B59BA093-0C9D-4808-91D5-286B3A8C3E00}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <RootNamespace>SoftServe.LuckyTickets</RootNamespace>
     <AssemblyName>SoftServe.LuckyTickets</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,8 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Consts\ConstsAlgorithms.cs" />
-    <Compile Include="Controllers\AppController.cs" />
+    <Compile Include="Consts\DefaultSettings.cs" />
     <Compile Include="Interfaces\IAlgorithm.cs" />
     <Compile Include="Interfaces\ITicketCreator.cs" />
     <Compile Include="Models\AlgorithmReader.cs" />
@@ -55,10 +57,8 @@
     <Compile Include="Models\NumberSeparator.cs" />
     <Compile Include="Models\PiterAlgorithm.cs" />
     <Compile Include="Models\Tickets\BusTicketCreator.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\Tickets\Ticket.cs" />
-    <Compile Include="Views\ResultPrinter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

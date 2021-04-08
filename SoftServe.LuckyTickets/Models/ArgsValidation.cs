@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SoftServe.LuckyTickets
 {
-    class ArgsValidation
+    public class ArgsValidation
     {
         public static bool isArgsValid(string[] args, out string algorithmFilePath)
         {
@@ -27,7 +27,7 @@ namespace SoftServe.LuckyTickets
             bool isValid = false;
             algorithm = AlgorithmReader.Read(filePath);
 
-            if (algorithm == ConstsAlgorithms.MOSCOW_ALGORITHM || algorithm == ConstsAlgorithms.PITER_ALGORITHM)
+            if (algorithm == DefaultSettings.MOSCOW_ALGORITHM || algorithm == DefaultSettings.PITER_ALGORITHM)
             {
                 isValid = true;
             }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SoftServe.LuckyTickets
 {
-    abstract class Ticket
+    public abstract class Ticket
     {
         protected int number;
 
